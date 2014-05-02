@@ -15,4 +15,4 @@
 
 // This is a sample interstitial ad unit. You should define your own ad unit
 // under your own network when developing your applications.
-#define kSampleAdUnitID @"/6253334/dfp_example_ad/interstitial";
+#define kSampleAdUnitID @"/143561488/piano_ios_test";
